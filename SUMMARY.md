@@ -4,9 +4,10 @@
 
 * [Introduction](README.md)
 
-## Concepts
+## Concepts & Culture
 
-* [Security as Code: Baking Security into DevOps](concepts/security-as-code-baking-security-into-devops.md)
+* [Implementing SAST Through Security-Driven Developer Culture](concepts-and-culture/implementing-sast-through-security-driven-developer-culture.md)
+* [Security as Code: Baking Security into DevOps](concepts-and-culture/security-as-code-baking-security-into-devops.md)
 
 ## Design Review
 
