@@ -1,8 +1,10 @@
 # Table of contents
 
+* [Product Security Guide](README.md)
+
 ## Intro
 
-* [Introduction](README.md)
+* [Introduction](<README (1).md>)
 
 ## Concepts & Culture
 
