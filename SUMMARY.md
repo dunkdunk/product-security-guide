@@ -1,10 +1,8 @@
 # Table of contents
 
-* [Product Security Guide](README.md)
-
 ## Intro
 
-* [Introduction](<README (1).md>)
+* [Introduction](README.md)
 
 ## Concepts & Culture
 
@@ -16,6 +14,8 @@
 * [Product Security Design Review Framework](design-review/product-security-design-review-framework.md)
 * [Security Design Review Checklist](design-review/security-design-review-checklist.md)
 
-## Vendor Risk
+## Vulnerabilities
 
-* [Vendor Risk Assessment Template](vendor-risk/vendor-risk-assessment-template.md)
+* [SQL Injection](vulnerabilities/sql-injection.md)
+* [Authorization Code Interception](vulnerabilities/authorization-code-interception.md)
+* [Cross-Site Scripting (XSS)](vulnerabilities/cross-site-scripting-xss.md)
