@@ -6,7 +6,7 @@
 
 ## Vulnerabilities & Code
 
-* [Introduction](vulnerabilities-and-code/introduction.md)
+* [Start Here](vulnerabilities-and-code/start-here.md)
 * [SQL Injection](vulnerabilities-and-code/sql-injection.md)
 * [Server-Side Template Injection (SSTI)](vulnerabilities-and-code/server-side-template-injection-ssti.md)
 * [Authorization Code Interception](vulnerabilities-and-code/authorization-code-interception.md)
