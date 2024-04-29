@@ -17,6 +17,9 @@
 * [Server-Side Request Forgery (SSRF)](vulnerabilities-and-code/server-side-request-forgery-ssrf.md)
 * [Cross-Site Request Forgery (CSRF)](vulnerabilities-and-code/cross-site-request-forgery-csrf.md)
 * [Cross-Origin Resource Sharing (CORS) Misconfiguration](vulnerabilities-and-code/cross-origin-resource-sharing-cors-misconfiguration.md)
+* [HTTP Request Smuggling](vulnerabilities-and-code/http-request-smuggling.md)
+* [Session Hijacking](vulnerabilities-and-code/session-hijacking.md)
+* [Business Logic Flaws](vulnerabilities-and-code/business-logic-flaws.md)
 
 ## Design Review
 
