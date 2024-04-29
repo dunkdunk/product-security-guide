@@ -8,8 +8,15 @@
 
 * [Introduction](vulnerabilities-and-code/introduction.md)
 * [SQL Injection](vulnerabilities-and-code/sql-injection.md)
+* [Server-Side Template Injection (SSTI)](vulnerabilities-and-code/server-side-template-injection-ssti.md)
 * [Authorization Code Interception](vulnerabilities-and-code/authorization-code-interception.md)
 * [Cross-Site Scripting (XSS)](vulnerabilities-and-code/cross-site-scripting-xss.md)
+* [HTTP Parameter Pollution](vulnerabilities-and-code/http-parameter-pollution.md)
+* [Insecure Direct Object References (IDOR)](vulnerabilities-and-code/insecure-direct-object-references-idor.md)
+* [XML External Entity (XXE) Injection](vulnerabilities-and-code/xml-external-entity-xxe-injection.md)
+* [Server-Side Request Forgery (SSRF)](vulnerabilities-and-code/server-side-request-forgery-ssrf.md)
+* [Cross-Site Request Forgery (CSRF)](vulnerabilities-and-code/cross-site-request-forgery-csrf.md)
+* [Cross-Origin Resource Sharing (CORS) Misconfiguration](vulnerabilities-and-code/cross-origin-resource-sharing-cors-misconfiguration.md)
 
 ## Design Review
 
