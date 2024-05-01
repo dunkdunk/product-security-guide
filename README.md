@@ -2,7 +2,7 @@
 
 As a software professional, ensuring the security of applications and products has been a critical part of my work over the years. Through various projects and experiences, I've encountered numerous security challenges, vulnerabilities, and incidents that have served as valuable learning opportunities.
 
-This manual started as a compilation of my personal notes, best practices, and lessons learned in the realm of product and application security. It is not a comprehensive guide or a set of rigid rules, but rather a collection of practical insights and techniques that have proven useful multiple times over.
+This manual started as a compilation of my personal notes, best practices, and lessons learned in the realm of product and application security. It is not a comprehensive guide or a set of rigid rules, but rather a collection of practical insights and techniques that have proven useful multiple times over. Note that many of these articles are enhanced versions of notes using generative AI. Certain coding examples in this manual are an experiment with generative AI, in a way.
 
 Within this manual, you'll find:
 

@@ -9,6 +9,7 @@
 * [Start Here](vulnerabilities-and-code/start-here.md)
 * [SQL Injection](vulnerabilities-and-code/sql-injection.md)
 * [Server-Side Template Injection (SSTI)](vulnerabilities-and-code/server-side-template-injection-ssti.md)
+* [XPath Injection](vulnerabilities-and-code/xpath-injection.md)
 * [Authorization Code Interception](vulnerabilities-and-code/authorization-code-interception.md)
 * [Cross-Site Scripting (XSS)](vulnerabilities-and-code/cross-site-scripting-xss.md)
 * [HTTP Parameter Pollution](vulnerabilities-and-code/http-parameter-pollution.md)
@@ -20,6 +21,8 @@
 * [HTTP Request Smuggling](vulnerabilities-and-code/http-request-smuggling.md)
 * [Session Hijacking](vulnerabilities-and-code/session-hijacking.md)
 * [Business Logic Flaws](vulnerabilities-and-code/business-logic-flaws.md)
+* [Type Juggling (Loose Type Comparison)](vulnerabilities-and-code/type-juggling-loose-type-comparison.md)
+* [Timing Attack](vulnerabilities-and-code/timing-attack.md)
 
 ## Design Review
 
