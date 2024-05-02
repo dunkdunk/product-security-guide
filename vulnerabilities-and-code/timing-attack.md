@@ -34,7 +34,7 @@ For example, let's say the stored password is `"secret"`. The attacker can try d
 
 * Input: `"a"` - Response time: 10ms
 * Input: `"s"` - Response time: 20ms
-* Input: `"sa"` - Response time: 30ms
+* Input: `"se"` - Response time: 30ms
 * Input: `"sb"` - Response time: 20ms
 
 Based on the response times, the attacker can deduce that the first character of the stored password is `"s"` because it takes longer to return `False` compared to other characters.
