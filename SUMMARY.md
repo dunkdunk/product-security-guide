@@ -28,6 +28,7 @@
   * [Session Hijacking](vulnerabilities-and-code/access-related-vulnerabilities/session-hijacking.md)
   * [Insufficient Transport Layer Security (TLS)](vulnerabilities-and-code/access-related-vulnerabilities/insufficient-transport-layer-security-tls.md)
   * [JSON Web Token (JWT) Vulnerabilities](vulnerabilities-and-code/access-related-vulnerabilities/json-web-token-jwt-vulnerabilities.md)
+  * [Insecure Client-Side Storage of JWTs](vulnerabilities-and-code/access-related-vulnerabilities/insecure-client-side-storage-of-jwts.md)
 * [Logic & Timing Vulnerabilities](vulnerabilities-and-code/logic-and-timing-vulnerabilities/README.md)
   * [Business Logic Flaws](vulnerabilities-and-code/logic-and-timing-vulnerabilities/business-logic-flaws.md)
   * [Type Juggling (Loose Type Comparison)](vulnerabilities-and-code/logic-and-timing-vulnerabilities/type-juggling-loose-type-comparison.md)
