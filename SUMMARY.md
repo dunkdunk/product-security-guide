@@ -22,7 +22,7 @@
   * [Cross-Site Request Forgery (CSRF)](vulnerabilities-and-code/origin-related-vulnerabilities/cross-site-request-forgery-csrf.md)
   * [Server-Side Request Forgery (SSRF)](vulnerabilities-and-code/origin-related-vulnerabilities/server-side-request-forgery-ssrf.md)
   * [Cross-Origin Resource Sharing (CORS) Misconfiguration](vulnerabilities-and-code/origin-related-vulnerabilities/cross-origin-resource-sharing-cors-misconfiguration.md)
-* [Access Related Vulnerabilities](vulnerabilities-and-code/access-related-vulnerabilities/README.md)
+* [Access-related Vulnerabilities](vulnerabilities-and-code/access-related-vulnerabilities/README.md)
   * [Insecure Direct Object References (IDOR)](vulnerabilities-and-code/access-related-vulnerabilities/insecure-direct-object-references-idor.md)
   * [Authorization Code Interception](vulnerabilities-and-code/access-related-vulnerabilities/authorization-code-interception.md)
   * [Session Hijacking](vulnerabilities-and-code/access-related-vulnerabilities/session-hijacking.md)
