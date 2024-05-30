@@ -1,16 +1,13 @@
-# Introduction
+# Start Here
 
-As a software professional, ensuring the security of applications and products has been a critical part of my work over the years. Through various projects and experiences, I've encountered numerous security challenges, vulnerabilities, and incidents that have served as valuable learning opportunities.
+This manual dives into the world of application security vulnerabilities and explores how they can be identified, understood, and mitigated **through practical code examples**.
 
-This manual started as a compilation of my personal notes, best practices, and lessons learned in the realm of product and application security. It is not a comprehensive guide or a set of rigid rules, but rather a collection of practical insights and techniques that have proven useful multiple times over. Note that many of these articles are enhanced versions of notes using generative AI. Certain coding examples in this manual are an experiment with generative AI, in a way.
+There are many excellent resources available to learn application security, but I found that many do not teach through coding examples. Understanding why code is vulnerable is the most effective way to learn about vulnerabilities in my opinion. After all, application vulnerabilities exist because of coding implementations in the first place. Plus there is the added bonus of knowing how to fix the vulnerable code.
 
-Within this manual, you'll find:
+The manual starts by presenting a vulnerable scenario and displaying some simple code that contains a security flaw. The vulnerability is then explained in detail, highlighting how an attacker could exploit it to compromise the application or gain unauthorized access to sensitive data. Next, each guide provides step-by-step instructions and secure coding practices that can be applied to fix the vulnerability.
 
-* Secure coding practices, tools, and techniques for mitigating common vulnerabilities
-* Approaches to threat modeling, risk assessment, and security requirements gathering
-* Secure architecture and design principles for building secure systems from the ground up
-* Security testing methodologies, including static and dynamic analysis, penetration testing, and bug bounty programs
-* Strategies for incident response, security incident management, and post-incident review
-* Ideas for fostering a culture of security within development teams and organizations
+A [Semgrep](https://semgrep.dev/) rule template is included for each vulnerable scenario. [Semgrep ](https://semgrep.dev/)is a static code analysis tool that helps identify potential security issues in codebases. The provided rules serve as a starting point for detecting and preventing vulnerabilities in your own projects. These rules can be edited for your specific use-cases then integrated into development workflows to catch security flaws early in the SDLC.
 
-While not an exhaustive resource, these notes aim to provide practical guidance and insights based on my experiences as a professional in the field. They represent an ongoing learning process, and I continue to update and refine them as I encounter new challenges and acquire additional knowledge.
+Additional sections have been added that cover topics like threat modeling, SSDLC concepts and other application security best practices. These sections are designed to help put the techniques from the code security sections into practice.
+
+It's important to note that while this manual focuses on learning through coding scenarios, it is not an exhaustive list of all application security vulnerabilities. There are many other excellent resources available that cover additional vulnerabilities, security best practices, and theoretical concepts.

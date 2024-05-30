@@ -2,11 +2,10 @@
 
 ## Intro
 
-* [Introduction](README.md)
+* [Start Here](README.md)
 
 ## Vulnerabilities & Code
 
-* [Start Here](vulnerabilities-and-code/start-here.md)
 * [Injection Vulnerabilities](vulnerabilities-and-code/injection-vulnerabilities/README.md)
   * [SQL Injection](vulnerabilities-and-code/injection-vulnerabilities/sql-injection.md)
   * [Server-Side Template Injection (SSTI)](vulnerabilities-and-code/injection-vulnerabilities/server-side-template-injection-ssti.md)
