@@ -1,13 +1,38 @@
-# Start Here
+# Secure Coding Patterns
 
-This manual dives into the world of application security vulnerabilities and explores how they can be identified, understood, and mitigated **through practical code examples**.
+A hands-on training guide for security teams and developers to learn application security through practical code examples.
 
-There are many excellent resources available to learn application security, but I found that many do not teach through coding examples. Understanding why code is vulnerable is the most effective way to learn about vulnerabilities in my opinion. After all, application vulnerabilities exist because of coding implementations in the first place. Plus there is the added bonus of knowing how to fix the vulnerable code.
+## What This Guide Covers
 
-The manual starts by presenting a vulnerable scenario and displaying some simple code that contains a security flaw. The vulnerability is then explained in detail, highlighting how an attacker could exploit it to compromise the application or gain unauthorized access to sensitive data. Next, each guide provides step-by-step instructions and secure coding practices that can be applied to fix the vulnerability.
+This training material teaches **26 common web application vulnerabilities** using real-world code examples. Each vulnerability is presented through a side-by-side comparison of vulnerable and secure code, making it easy to understand both the problem and the solution.
 
-A [Semgrep](https://semgrep.dev/) rule template is included for each vulnerable scenario. [Semgrep ](https://semgrep.dev/)is a static code analysis tool that helps identify potential security issues in codebases. The provided rules serve as a starting point for detecting and preventing vulnerabilities in your own projects. These rules can be edited for your specific use-cases then integrated into development workflows to catch security flaws early in the SDLC.
+## Learning Approach
 
-Additional sections have been added that cover topics like threat modeling, SSDLC concepts and other application security best practices. These sections are designed to help put the techniques from the code security sections into practice.
+**See the Vulnerability** → Every guide starts with a vulnerable code example that contains a real security flaw
 
-It's important to note that while this manual focuses on learning through coding scenarios, it is not an exhaustive list of all application security vulnerabilities. There are many other excellent resources available that cover additional vulnerabilities, security best practices, and theoretical concepts.
+**Understand the Exploit** → Learn how attackers exploit the vulnerability to compromise applications or access sensitive data
+
+**Apply the Fix** → Step-by-step instructions show how to remediate the vulnerability with secure coding practices
+
+**Detect It Early** → Each vulnerability includes a [Semgrep](https://semgrep.dev/) rule template to integrate into your SAST scanning and CI/CD pipelines
+
+## Who This Is For
+
+- **Security teams** training developers on secure coding practices
+- **Application security engineers** learning to identify and remediate vulnerabilities
+- **Development teams** improving their security knowledge through practical examples
+- **Security champions** teaching peers about common web security issues
+
+## What's Included
+
+26 vulnerabilities organized into 5 categories:
+
+- **Injection Vulnerabilities** (6) - SQL, SSTI, XPath, XXE, Request Smuggling, Deserialization
+- **Input-based Vulnerabilities** (3) - XSS, CSP Misconfiguration, HTTP Parameter Pollution
+- **Origin-related Vulnerabilities** (3) - CSRF, SSRF, CORS Misconfiguration
+- **Access-related Vulnerabilities** (6) - IDOR, Auth Code Interception, Session Hijacking, TLS Issues, JWT Vulnerabilities
+- **Logic & Timing Vulnerabilities** (3) - Business Logic Flaws, Type Juggling, Timing Attacks
+
+## Note
+
+This guide focuses on practical code-level vulnerabilities. It is not exhaustive but covers the most common web application security issues encountered in modern development.
